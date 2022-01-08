@@ -1,4 +1,4 @@
-# CakeAttachment
+# Test Files
 
 CakeAttachment is a plugin for CakePHP to improved easy file upload. The CakeAttachment upload Behavior intent was to keep setup as easy as possible and to treat files as a simple table column. It manages simple validations and can transform its assigned image into thumbnails if needed.
 
